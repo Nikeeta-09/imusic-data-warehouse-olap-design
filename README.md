@@ -90,5 +90,5 @@ This project helped strengthen practical understanding of:
 
 ## Author
 
-Nikeeta Kumari
+Nikeeta Kumari -
 Unitec Institute of Technology
